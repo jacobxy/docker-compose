@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  geek-http:
+    image: chronolaw/http_study
+    container_name: http_study
+    ports:
+      - "10033:80"
