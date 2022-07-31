@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  mysql:
+    image: daocloud.io/library/mysql:8.0
+    container_name: mysql-8.0
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./data/mysql/data/:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+    restart: always
+
