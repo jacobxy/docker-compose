@@ -1,0 +1,46 @@
+1:C 03 Apr 2023 01:11:01.942 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 03 Apr 2023 01:11:01.946 # Redis version=7.0.10, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 03 Apr 2023 01:11:01.948 # Configuration loaded
+1:M 03 Apr 2023 01:11:01.954 * monotonic clock: POSIX clock_gettime
+1:M 03 Apr 2023 01:11:01.956 * Running mode=standalone, port=6379.
+1:M 03 Apr 2023 01:11:01.957 # Server initialized
+1:M 03 Apr 2023 01:11:01.963 * Loading RDB produced by version 7.0.5
+1:M 03 Apr 2023 01:11:01.964 * RDB age 573834 seconds
+1:M 03 Apr 2023 01:11:01.966 * RDB memory usage when created 0.85 Mb
+1:M 03 Apr 2023 01:11:01.968 * Done loading RDB, keys loaded: 0, keys expired: 0.
+1:M 03 Apr 2023 01:11:01.973 * DB loaded from disk: 0.008 seconds
+1:M 03 Apr 2023 01:11:01.974 * Ready to accept connections
+1:C 04 Apr 2023 01:04:23.677 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 04 Apr 2023 01:04:23.679 # Redis version=7.0.10, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 04 Apr 2023 01:04:23.681 # Configuration loaded
+1:M 04 Apr 2023 01:04:23.682 * monotonic clock: POSIX clock_gettime
+1:M 04 Apr 2023 01:04:23.688 * Running mode=standalone, port=6379.
+1:M 04 Apr 2023 01:04:23.690 # Server initialized
+1:M 04 Apr 2023 01:04:23.699 * Loading RDB produced by version 7.0.5
+1:M 04 Apr 2023 01:04:23.701 * RDB age 659836 seconds
+1:M 04 Apr 2023 01:04:23.702 * RDB memory usage when created 0.85 Mb
+1:M 04 Apr 2023 01:04:23.704 * Done loading RDB, keys loaded: 0, keys expired: 0.
+1:M 04 Apr 2023 01:04:23.705 * DB loaded from disk: 0.008 seconds
+1:M 04 Apr 2023 01:04:23.708 * Ready to accept connections
+1:C 05 Apr 2023 05:16:21.144 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 05 Apr 2023 05:16:21.146 # Redis version=7.0.10, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 05 Apr 2023 05:16:21.147 # Configuration loaded
+1:M 05 Apr 2023 05:16:21.149 * monotonic clock: POSIX clock_gettime
+1:M 05 Apr 2023 05:16:21.152 * Running mode=standalone, port=6379.
+1:M 05 Apr 2023 05:16:21.153 # Server initialized
+1:M 05 Apr 2023 05:16:21.159 * Loading RDB produced by version 7.0.5
+1:M 05 Apr 2023 05:16:21.162 * RDB age 761354 seconds
+1:M 05 Apr 2023 05:16:21.165 * RDB memory usage when created 0.85 Mb
+1:M 05 Apr 2023 05:16:21.167 * Done loading RDB, keys loaded: 0, keys expired: 0.
+1:M 05 Apr 2023 05:16:21.168 * DB loaded from disk: 0.010 seconds
+1:M 05 Apr 2023 05:16:21.169 * Ready to accept connections
+1:M 08 Apr 2023 13:15:44.519 * 1 changes in 900 seconds. Saving...
+1:M 08 Apr 2023 13:15:44.533 * Background saving started by pid 21
+21:C 08 Apr 2023 13:15:44.540 * DB saved on disk
+21:C 08 Apr 2023 13:15:44.541 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+1:M 08 Apr 2023 13:15:44.647 * Background saving terminated with success
+1:M 08 Apr 2023 14:53:49.998 * 1 changes in 900 seconds. Saving...
+1:M 08 Apr 2023 14:53:50.004 * Background saving started by pid 22
+22:C 08 Apr 2023 14:53:50.011 * DB saved on disk
+22:C 08 Apr 2023 14:53:50.014 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+1:M 08 Apr 2023 14:53:50.108 * Background saving terminated with success
